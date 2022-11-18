@@ -81,7 +81,7 @@
 
 ***
 
-# Guide to learning
+# Guide to Learning
 
 - [Fail Fast to Learn Fast](https://www.lifehack.org/851912/fail-fast) (Required Reading)
 - [What I Wish I Knew Before I Started Learning to Code](https://www.freecodecamp.org/news/what-i-wish-i-knew-before-i-started-learning-to-code/)
